@@ -1,0 +1,18 @@
+body{
+    background-image: url("gambar/background.png");
+    background-size: contain;
+}
+
+#cimory{
+    width: 250px;
+    height: 470px;
+    transition: width 0.3s ease;
+}
+
+#cimory:hover{
+    width: 300px;
+}
+
+#profil:hover{
+    box-shadow: 0 0 6px;
+}
